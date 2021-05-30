@@ -13,4 +13,4 @@ You can always refer to [W3Schools: BootStrap 4 Tutorial](https://www.w3schools.
 You can also check these videos: [freecodecamp.org](https://www.youtube.com/watch?v=RyTRgQ7k6QE) ,[Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0).
 
 # NOTE
-#### The Combined lenght of this week's material is just 1:30 hrs so we will be setting the deadline Thursday, 11:59 PM, and then there will be a short project for Friday, Saturday and Sunday. After this we will have another break so that you gays can prepare for you endscams. Best of luck.
+#### The Combined lenght of this week's material is just 1:30 hrs so we will be setting the deadline Thursday, 11:59 PM, and then there will be a short project for Friday, Saturday and Sunday. After this we will have another break so that you guys can prepare for you endscams. Best of luck.
