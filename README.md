@@ -6,7 +6,7 @@ Bootstrap gives you ability to create flexible and responsive web layouts with m
 Go through [this playlist](https://www.youtube.com/watch?v=5GcQtLDGXy8) to get the basic understanding of bootstrap.
 
 ## Practice
-Follow this [short tutorial]() to create a Carausal by using templates, don't worry as it will be much much easier compared to manually create a caraousal. You need to submit this either as a new webpage aur simply adding it to the existing webpage. 
+Follow this [short tutorial](https://www.youtube.com/watch?v=ku_97a6Bgkg) to create a Carausal by using templates, don't worry as it will be much much easier compared to manually create a caraousal. You need to submit this either as a new webpage aur simply adding it to the existing webpage. 
 
 ## Extra Material
 You can always refer to [W3Schools: BootStrap 4 Tutorial](https://www.w3schools.com/bootstrap4/) for more.
